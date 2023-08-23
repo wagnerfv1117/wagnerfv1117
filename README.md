@@ -5,11 +5,11 @@ Passionate about ICTs, Archival and Data Sciences, with this resource, the data,
 Professional in Information Technology Administration, with experience in the public and private sectors, regarding the management of physical and electronic documents, structured, semi-structured and unstructured data; I specialize in the use of programming languages such as Python, R, SQL and No SQL query languages, as well as tools such as Microsoft Excel, PowerBI and Tableau. He applied Exploratory Data Analysis (EDA) techniques, data preprocessing, Data Mining (ETL), Data Visualization and Time Series Analysis; In the same way, I have applied supervised and unsupervised Machine Learning algorithms in data projects.
 
 
-🇨🇴📑Archivista🗃️|💽Ingeniero de Datos💾|📊Científico de Datos📈🇨🇴
+📑Archivista🗃️|💽Ingeniero de Datos💾|📊Científico de Datos📈
 
-🇨🇴📑Archivist🗃️|💽Data Engineer💾|📊Data Scientist📈🇨🇴 
+📑Archivist🗃️|💽Data Engineer💾|📊Data Scientist📈 
 
-🇨🇴📑Arquivista🗃️|💽Engenheiro de Dados💾|📊Cientista de Dados📈🇨🇴 
+📑Arquivista🗃️|💽Engenheiro de Dados💾|📊Cientista de Dados📈 
 
 
 <!--
