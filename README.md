@@ -23,14 +23,14 @@ ____
 
 ##### SQL
 
-*MySQL
-*PostgreSQL
-*Sqlite
-*MariaDB
+* MySQL
+* PostgreSQL
+* Sqlite
+* MariaDB
 
 ##### NoSQL
 
-*MongoDB
+* MongoDB
 
 #### Dev Tools
 
