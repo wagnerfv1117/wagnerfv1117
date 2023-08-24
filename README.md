@@ -14,20 +14,37 @@ ____
 ____
 #### Programming languages used
 
-* Python - (My specialty)
+* Python and DataScience Libraries
 * R
 * PHP
 * Visual Basic
+
+#### Query languages
+
+##### SQL
+
+*MySQL
+*PostgreSQL
+*Sqlite
+*MariaDB
+
+##### NoSQL
+
+*MongoDB
 
 #### Dev Tools
 
 * Jupyter Notebook
 * VSCODE
+* Pentaho
+* Apache Airflow
+* Apache Spark
+* Tableau
+* PowerBI
   
 ____
 #### Contact me
 * [LinkedIn](https://www.linkedin.com/in/wagner-fern%C3%A1ndez-2b8751231/)
-* [E-Mail](wagnerfernandez17@gmail.com)
 
 <!--
 **wagnerfv1117/wagnerfv1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
