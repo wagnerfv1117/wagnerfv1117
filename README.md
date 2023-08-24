@@ -20,7 +20,7 @@ ____
 
 ____
 #### Contact me
-* LinkedIn profile [LinkedIn](www.linkedin.com/in/wagner-fernández-2b8751231)
+* [LinkedIn](www.linkedin.com/in/wagner-fernández-2b8751231)
 
 <!--
 **wagnerfv1117/wagnerfv1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
