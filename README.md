@@ -41,7 +41,6 @@ ____
 * Apache Spark
 * Tableau
 * PowerBI
-  
 ____
 #### Contact me
 * [LinkedIn](https://www.linkedin.com/in/wagner-fern%C3%A1ndez-2b8751231/)
