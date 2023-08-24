@@ -13,14 +13,21 @@ ____
 * 📊Científico de Datos📈|📊Data Scientist📈|📊Cientista de Dados📈 
 ____
 #### Programming languages used
+
 * Python - (My specialty)
 * R
 * PHP
 * Visual Basic
 
+#### Dev Tools
+
+* Jupyter Notebook
+* VSCODE
+  
 ____
 #### Contact me
 * [LinkedIn](https://www.linkedin.com/in/wagner-fern%C3%A1ndez-2b8751231/)
+* [E-Mail](wagnerfernandez17@gmail.com)
 
 <!--
 **wagnerfv1117/wagnerfv1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
