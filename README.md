@@ -35,6 +35,7 @@ ____
 ____
 #### Dev Tools
 
+* Windows
 * Linux
 * Jupyter Notebook
 * VSCODE
