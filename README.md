@@ -18,7 +18,7 @@ ____
 * R
 * PHP
 * Visual Basic
-
+____
 #### Query languages
 
 ##### SQL
@@ -31,7 +31,7 @@ ____
 ##### NoSQL
 
 * MongoDB
-
+____
 #### Dev Tools
 
 * Jupyter Notebook
