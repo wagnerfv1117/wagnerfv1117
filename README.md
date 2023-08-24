@@ -8,14 +8,20 @@ Professional in Information Technology Administration, with experience in the pu
 ____
 #### My Jobs
 
-* 📑Archivista🗃️|💽Ingeniero de Datos💾|📊Científico de Datos📈
-
-* 📑Archivist🗃️|💽Data Engineer💾|📊Data Scientist📈 
-
-* 📑Arquivista🗃️|💽Engenheiro de Dados💾|📊Cientista de Dados📈 
-
+* 📑Archivist🗃️|📑Archivista🗃️|📑Arquivista🗃️
+* 💽Data Engineer💾|💽Ingeniero de Datos💾|💽Engenheiro de Dados💾
+* 📊Científico de Datos📈|📊Data Scientist📈|📊Cientista de Dados📈 
+____
+#### Programming languages used
+* Python - (My specialty)
+* R
+* PHP
+* Visual Basic
 
 ____
+#### Contact me
+* LinkedIn profile [LinkedIn](www.linkedin.com/in/wagner-fernández-2b8751231)
+
 <!--
 **wagnerfv1117/wagnerfv1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
