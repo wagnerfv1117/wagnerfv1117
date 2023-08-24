@@ -41,6 +41,7 @@ ____
 * Apache Airflow
 * Apache Spark
 * Tableau
+* Git
 * PowerBI
 ____
 #### Contact me
