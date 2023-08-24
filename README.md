@@ -17,6 +17,7 @@ ____
 * Python and DataScience Libraries
 * R
 * PHP
+* JavaScript
 * Visual Basic
 ____
 #### Query languages
