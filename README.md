@@ -10,7 +10,7 @@ ____
 
 * 📑Archivist🗃️|📑Archivista🗃️|📑Arquivista🗃️
 * 💽Data Engineer💾|💽Ingeniero de Datos💾|💽Engenheiro de Dados💾
-* 📊Científico de Datos📈|📊Data Scientist📈|📊Cientista de Dados📈 
+* 📊Data Scientist📈|📊Científico de Datos📈|📊Cientista de Dados📈 
 ____
 #### Programming in
 
