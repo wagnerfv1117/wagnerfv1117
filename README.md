@@ -16,68 +16,149 @@ ____
 
 #### Languages
 
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python
-
-</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> R
-
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash 
-
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
-
-</a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP </a> </p> 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+            <p style="text-align: center;">Python</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
+            <p style="text-align: center;">R</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+            <p style="text-align: center;">Bash</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+            <p style="text-align: center;">JavaScript</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+            <p style="text-align: center;">PHP</p>
+        </a>
+    </div>
+</div>
 
 ____
 
 ##### Data Science Libraries - (Python)
 
-</a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> OpenCV
-
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> Pandas
-
-</a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> Sckit-Learn 
-
-</a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> Seaborn
-
-</a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> Selenium
-
-
-</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> Tensorflow </a> 
-</p> 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+            <p style="text-align: center;">OpenCV</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+            <p style="text-align: center;">Pandas</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+            <p style="text-align: center;">Scikit-Learn</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+            <p style="text-align: center;">Seaborn</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+            <p style="text-align: center;">Selenium</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+            <p style="text-align: center;">Tensorflow</p>
+        </a>
+    </div>
+</div>
 
 ____
 
 #### Querys
 
-</a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> MariaDB
-
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  MongoDB
-
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL
-
-</a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> PostgreSQL
-
-</a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> SQLite </a> 
-</p> 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+            <p style="text-align: center;">MariaDB</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+            <p style="text-align: center;">MongoDB</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            <p style="text-align: center;">MySQL</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+            <p style="text-align: center;">PostgreSQL</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><p style="text-align: center;">Sqlite</p>
+        </a>
+    </div>
+</div>
 
 ____
 
+
 #### Frameworks
+            
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 20px;">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+            <p style="text-align: center;">Docker</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+            <p style="text-align: center;">Git</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+            <p style="text-align: center;">Linux</p>
+        </a>
+    </div>
+    <div style="margin: 20px;">
+        <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+            <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apache Airflow" width="40" height="40"/>
+            <p style="text-align: center;">Apache Airflow</p>
+        </a>
 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker                
-
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>Git
-
-
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux
-
-</a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apche Airflow" width="40" height="40"/> Apache Airflow
-
-</a> <a href="https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html" target="_blank" rel="noreferrer"> <img src="https://agailcombr.files.wordpress.com/2020/12/pdi.png" alt="Pentaho" width="40" height="40"/> Pentaho
-
-</a> 
-</p> 
-
-
+</div>
 
 
 <!--
