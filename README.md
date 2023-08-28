@@ -72,6 +72,8 @@ ____
 
 </a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apche Airflow" width="40" height="40"/> Apache Airflow
 
+</a> <a href="https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html" target="_blank" rel="noreferrer"> <img src="https://agailcombr.files.wordpress.com/2020/12/pdi.png" alt="Pentaho" width="40" height="40"/> Pentaho
+
 </a> 
 </p> 
 
