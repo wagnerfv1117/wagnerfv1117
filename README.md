@@ -74,6 +74,8 @@ ____
 
 </a> <a href="https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html" target="_blank" rel="noreferrer"> <img src="https://agailcombr.files.wordpress.com/2020/12/pdi.png" alt="Pentaho" width="40" height="40"/> Pentaho</p> 
 
+</a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" width="40" height="40"/> Apache Spark</p> 
+
 
 <!--
 **wagnerfv1117/wagnerfv1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
