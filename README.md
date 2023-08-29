@@ -1,6 +1,6 @@
 ## Hi, I'm Wagner 👋
 
-###  ¿About me?
+### About me
 
 Passionate about ICTs, Archival and Data Sciences, with this resource, the data, truths or lies are obtained; Even predict where we are going, to make good decisions and preserve our memory.
 
