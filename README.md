@@ -14,7 +14,7 @@ ____
 ____
 ### Technologies and tools
 
-#### Languages
+#### Programming languages
 
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python </a> </a> </p>  
 
@@ -48,7 +48,7 @@ ____
 </p> 
 
 ____
-#### Querys
+#### Query languages
 
 </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> MariaDB
 
