@@ -12,7 +12,7 @@ ____
 * 💽Data Engineer💾|💽Ingeniero de Datos💾|💽Engenheiro de Dados💾
 * 📊Data Scientist📈|📊Científico de Datos📈|📊Cientista de Dados📈 
 ____
-### Programming in
+### Technologies and tools
 
 #### Languages
 
@@ -40,6 +40,9 @@ ____
 
 </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> Selenium
 
+</a> <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40"/> Matplotlib
+
+</a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu" alt="Plotly" width="40" height="40"/> Potly
 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> Tensorflow </a> 
 </p> 
@@ -59,18 +62,16 @@ ____
 </p> 
 
 ____
-#### Frameworks
+#### Tools
 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker                
-
-
+</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker               
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>Git
-
 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux
 
-</a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apche Airflow" width="40" height="40"/> Apache Airflow</a> 
+</a> <a href="https://www.microsoft.com/es-co/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="Windows" width="40" height="40"/> Windows
 
+</a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apche Airflow" width="40" height="40"/> Apache Airflow</a> 
 
 </a> <a href="https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html" target="_blank" rel="noreferrer"> <img src="https://agailcombr.files.wordpress.com/2020/12/pdi.png" alt="Pentaho" width="40" height="40"/> Pentaho</p> 
 
