@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a professional in IT Administration, with experience in the public and private sector, in relation to the management of physical, electronic documents, structured, semi-structured and unstructured data; I perform from extraction and cleaning, to the application of models to solve business problems or use cases. 💽+📄+📚+🗃️=📊
+I am a professional in IT Administration, with experience in the public and private sector, in relation to the management of physical, electronic documents, structured, semistructured and unstructured data; I perform from extraction and cleaning, to the application of models to solve business problems or use cases. 💽+📄+📚+🗃️=📊
 
 Passionate with ICT, as tools can be used to help transform raw data into relevant information, which is available for decision making; taking it to a level of wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
 
