@@ -22,8 +22,6 @@ ____
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> R </a> </p> 
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash 
-
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
 
 </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP </a> </p> 
