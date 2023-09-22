@@ -10,9 +10,9 @@ My goal is to drive the growth and efficiency of companies or organizations, usi
 ____
 ### Job profile
 
-* 📑Archivist🗃️|📑Archivista🗃️|📑Arquivista🗃️
 * 💽Data Engineer💾|💽Ingeniero de Datos💾|💽Engenheiro de Dados💾
 * 📊Data Scientist📈|📊Científico de Datos📈|📊Cientista de Dados📈 
+* 📑Archivist🗃️|📑Archivista🗃️|📑Arquivista🗃️
 ____
 ### Technologies and tools
 
