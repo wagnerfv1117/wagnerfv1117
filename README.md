@@ -6,7 +6,7 @@ I am a professional in IT Administration, with experience in the public and priv
 
 Passionate with ICT, as tools can be used to help transform raw data into relevant information, which is available for decision making; taking it to a level of wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
 
-My goal is to drive the growth and efficiency of companies or organizations, using Data Science as a strategic tool. I am always constantly learning, looking for new challenges and opportunities to apply my experience and knowledge. 📉➡️📈
+My goal is to promote the growth or efficiency of companies or organizations, using Data Science and Document Management as a strategic tool. I am always constantly learning, looking for new challenges and opportunities to apply my experience and knowledge. 📉➡️📈
 ____
 ### Job profile
 
