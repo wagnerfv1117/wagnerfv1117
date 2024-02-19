@@ -10,9 +10,7 @@ My goal is to promote the growth or efficiency of companies or organizations, us
 ____
 ### Job profile
 
-* 💽Data Engineer💾|💽Ingeniero de Datos💾|💽Engenheiro de Dados💾
-* 📊Data Scientist📈|📊Científico de Datos📈|📊Cientista de Dados📈 
-* 📑Archivist🗃️|📑Archivista🗃️|📑Arquivista🗃️
+*  📊Data Engineer | Data Administrator🗃️ 
 ____
 ### Technologies and tools
 
