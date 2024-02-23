@@ -68,6 +68,8 @@ ____
 
 </a> <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://linuxmint.com/web/img/logo-mono.svg" alt="linux Mint" width="40" height="40"/> Linux Mint
 
+</a> <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/Pics/openlogo-50.png" alt="Debian" width="40" height="40"/> Debian
+
 </a> <a href="https://www.microsoft.com/es-co/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="Windows" width="40" height="40"/> Windows
 
 </a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apche Airflow" width="40" height="40"/> Apache Airflow</a> 
