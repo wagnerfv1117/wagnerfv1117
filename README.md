@@ -66,7 +66,7 @@ ____
 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>Git
 
-</a> <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:The_Linux_Mint_Logo.svg" alt="linux Mint" width="40" height="40"/> Linux Mint
+</a> <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="https://linuxmint.com/web/img/logo-mono.svg" alt="linux Mint" width="40" height="40"/> Linux Mint
 
 </a> <a href="https://www.microsoft.com/es-co/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="Windows" width="40" height="40"/> Windows
 
