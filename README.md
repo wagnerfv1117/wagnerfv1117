@@ -72,6 +72,8 @@ ____
 
 </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg" alt="Ubuntu" width="40" height="40"/> Ubuntu
 
+</a> <a href="https://deepnote.com/" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="Ubuntu" width="40" height="40"/> Deepnote
+
 </a> <a href="https://www.microsoft.com/es-co/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="Windows" width="40" height="40"/> Windows
 
 </a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Apche Airflow" width="40" height="40"/> Apache Airflow</a> 
