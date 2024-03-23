@@ -10,7 +10,7 @@ My goal is to promote the growth or efficiency of companies or organizations, us
 ____
 ### Job profile
 
-*  📊Data Engineer | Data Administrator🗃️ 
+*  📊Data Engineer | Data Steward🗃️ 
 ____
 ### Technologies and tools
 
