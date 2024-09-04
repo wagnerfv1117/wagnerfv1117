@@ -10,7 +10,11 @@ My goal is to promote the growth or efficiency of companies or organizations, us
 ____
 ### Job profile
 
-*  📊Data Engineer | Data Steward🗃️ 
+*  💽Data Engineer
+*  📈Data Scientist
+*  📊Data Steward
+*  📑Information Management
+*  🗄️Archivist
 ____
 ### Technologies and tools
 
