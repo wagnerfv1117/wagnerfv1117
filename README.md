@@ -11,8 +11,8 @@ ____
 ### Job profile
 
 *  ⛁Data Engineer
-*  📈Data Scientist
-*  📊Data Steward
+*  📊Data Scientist
+*  🔐Data Steward
 *  📑Information Management
 *  🗄️Archivist
 ____
