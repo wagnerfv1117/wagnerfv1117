@@ -26,6 +26,8 @@ ____
 
 </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP </a> </p> 
 
+</a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg](https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg" alt="JS" width="40" height="40"/> PHP </a> </p> 
+
 ____
 
 ##### Data Science Libraries - (Python)
