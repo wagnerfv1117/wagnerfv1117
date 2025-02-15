@@ -2,11 +2,14 @@
 
 ### About me
 
-I'm a professional in IT Administration, with experience in the public and private sector, in relation to the management of physical, electronic documents, structured, semistructured and unstructured data; I perform from extraction and cleaning, to the application of models to solve business problems or use cases. 💽+📄+📚+🗃️=📊
+I am IT Administration professional specializing in Data Science and Analytics, with experience in both the public and private sectors, my work involves managing physical and electronic documents, as well as structured, semi-structured, and unstructured data.
 
-Passionate with ICT, as tools can be used to help transform raw data into relevant information, which is available for decision making; taking it to a level of wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
+I handle the entire process, from data extraction and cleaning to making it available for model application, aiming to solve business problems and use cases. 💽+📄+📚+🗃️=📊
 
-My goal is to promote the growth or efficiency of companies or organizations, using Data Science and Document Management as a strategic tool. I am always constantly learning, looking for new challenges and opportunities to apply my experience and knowledge. 📉➡️📈
+I am passionate about ICT, as it allows us to transform raw data into relevant information for decision-making, elevating it to a level of wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
+
+My goal is to drive growth and efficiency in companies and organizations, using Data Science and Document Management as strategic tools. I am always learning, seeking new challenges and opportunities to apply my experience and knowledge. 📉➡️📈
+
 ____
 ### Job profile
 
