@@ -2,7 +2,7 @@
 
 ### About me
 
-I am IT Administration professional specializing in Data Science and Analytics, with experience in both the public and private sectors, my work involves managing physical and electronic documents, as well as structured, semi-structured, and unstructured data.
+I am IT Administration professional specializing in Data Science and Analytics, with experience in both the public and private sectors, my work involves managing physical and electronic documents, as well as structured, semi-structured, and unstructured data. 📄=⛁
 
 I handle the entire process, from data extraction and cleaning to making it available for model application, aiming to solve business problems and use cases. 💽+📄+📚+🗃️=📊
 
